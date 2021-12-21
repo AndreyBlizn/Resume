@@ -141,7 +141,7 @@
                             <p><img src="images/js.png"></a></p>
                         </div>
                         <div class="information_ed">
-                            <p>Также в ходе разработки веб-приложений изучаю JavaScript, а именно Ajax</p>
+                            <p>Также в ходе разработки веб-приложений изучаю JavaScript, а именно использую Ajax</p>
                         </div>
                     </div>
                 </div>
